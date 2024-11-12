@@ -5,3 +5,12 @@
 # Git Repository
 -Where all our snapshots are stored
 
+
+
+#Adding multiple files of a certain type
+*.(file type)
+#Adding all files in directory (including hidden) 
+-A
+#Removing files
+
+#Ignoring files
